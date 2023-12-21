@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hvuitsme</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
-<p align="right"><img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300"></p>
+<img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvuitsme&label=Profile%20views&color=0e75b6&style=flat" alt="hvuitsme" /> </p>
 <p align="left"> <a href="https://twitter.com/hvu_itsme" target="blank"><img src="https://img.shields.io/twitter/follow/hvu_itsme?logo=twitter&style=for-the-badge" alt="hvu_itsme" /></a> </p>
