@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hvuitsme&" alt="hvuitsme" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hvuitsme&show_icons=true&locale=en" alt="hvuitsme" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hvuitsme&show_icons=true&locale=en" alt="hvuitsme" /></p></br>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvuitsme&show_icons=true&locale=en&layout=compact" alt="hvuitsme" /></p>
